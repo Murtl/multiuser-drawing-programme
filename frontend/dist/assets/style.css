@@ -1,0 +1,211 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 500px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid black;
+  background-color: #f0f0f0;
+}
+
+.container-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+}
+
+.container-header h2,
+h4 {
+  margin: 5px 0;
+}
+
+.container .sub-container-header-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
+}
+
+.container-main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.sub-container-main {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.container-main h2 {
+  margin: 5px 0;
+}
+
+.container-main .sub-container-main-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+}
+
+.container-footer {
+  margin-top: 10px;
+}
+
+.container-footer .container-footer-text-button {
+  text-decoration: underline;
+  color: blue;
+  cursor: pointer;
+}
+
+.custom-button {
+  margin-top: 10px;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #ff0057;
+  color: white;
+  cursor: pointer;
+  width: 100px;
+}
+
+.container-home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1000px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid black;
+  background-color: #f0f0f0;
+}
+
+.container-profile-settings {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 20px;
+  margin-top: 10px;
+}
+
+.sub-container-profile-settings {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.container-preview-drawing-area {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin-top: 10px;
+}
+
+.sub-container-preview-drawing-area {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.drawing-area-preview-img {
+  width: 250px;
+}
+
+.container-preview-drawing-area-element {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.sub-container-preview-drawing-area-element {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.tools {
+  width: 100px;
+  float: left;
+  padding: 5px;
+  margin: 0;
+}
+
+.tools li {
+  padding: 5px;
+  list-style: none;
+}
+
+.tools li:hover {
+  color: cornflowerblue;
+  cursor: pointer;
+}
+
+.tools li.marked {
+  background-color: cornflowerblue;
+  color: white;
+}
+
+.draw-area {
+  border: 1px solid #000000;
+  background-color: lightgrey;
+}
+
+.custom-drawing-area-wrapper {
+  display: flex;
+  gap: 20px;
+}
+
+.sub-custom-drawing-area-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.dynamic-sub-custom-drawing-area-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.modal-content {
+  background-color: #fefefe;
+  margin: 15% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}

@@ -1,0 +1,363 @@
+[
+  {
+    "id": "70e1287e-3bca-4cea-8f96-85a065a18efc",
+    "authorizedUsers": [
+      {
+        "userId": "77fafe5e-afec-4491-be6f-74c5cfb1c51e",
+        "permission": "O"
+      },
+      {
+        "userId": "a2d41fd9-d009-45ee-9968-0382d00437c6",
+        "permission": "W"
+      }
+    ],
+    "isModerated": false,
+    "eventsForDrawingArea": [
+      {
+        "iShape": {
+          "id": "a2d41fd9-d009-45ee-9968-0382d00437c6#9b7ec68b-1f34-4961-b932-c693ecf06da8",
+          "type": "Rectangle",
+          "borderColor": "#000000",
+          "backgroundColor": "#00FF00",
+          "selectColor": "#5541d4",
+          "zIndex": 0,
+          "from": {
+            "x": 208,
+            "y": 332
+          },
+          "to": {
+            "x": 599,
+            "y": 518
+          }
+        },
+        "type": "IShapeAdded"
+      },
+      {
+        "iShape": {
+          "id": "a2d41fd9-d009-45ee-9968-0382d00437c6#13041f27-1ea9-4f8c-870c-0229f5a17e4c",
+          "type": "Circle",
+          "borderColor": "#000000",
+          "backgroundColor": "#FF0000",
+          "selectColor": "#aae74a",
+          "zIndex": 2,
+          "center": {
+            "x": 147,
+            "y": 549
+          },
+          "radius": 101.23734488813898
+        },
+        "type": "IShapeAdded"
+      },
+      {
+        "iShape": {
+          "id": "a2d41fd9-d009-45ee-9968-0382d00437c6#aa2003a7-a2f9-4339-8afc-1f995bbbf432",
+          "type": "Triangle",
+          "borderColor": "#000000",
+          "backgroundColor": "#FFFF00",
+          "selectColor": "#aae74a",
+          "zIndex": 3,
+          "p1": {
+            "x": 139,
+            "y": 339
+          },
+          "p2": {
+            "x": 685,
+            "y": 341
+          },
+          "p3": {
+            "x": 419,
+            "y": 62
+          }
+        },
+        "type": "IShapeAdded"
+      },
+      {
+        "iShape": {
+          "id": "a2d41fd9-d009-45ee-9968-0382d00437c6#72460f08-1ec8-43a9-9f53-82067bce5e88",
+          "type": "Circle",
+          "borderColor": "#000000",
+          "backgroundColor": "#FF0000",
+          "selectColor": "#8906c1",
+          "zIndex": 1,
+          "center": {
+            "x": 745,
+            "y": 171
+          },
+          "radius": 116.67476162392619
+        },
+        "type": "IShapeAdded"
+      },
+      {
+        "iShape": {
+          "id": "77fafe5e-afec-4491-be6f-74c5cfb1c51e#09437896-26e7-442d-90f6-ad35bb3cf389",
+          "type": "Rectangle",
+          "borderColor": "#FFFF00",
+          "backgroundColor": "#0000FF",
+          "selectColor": "#8906c1",
+          "zIndex": 4,
+          "from": {
+            "x": 554,
+            "y": 497
+          },
+          "to": {
+            "x": 710,
+            "y": 597
+          }
+        },
+        "type": "IShapeAdded"
+      }
+    ]
+  },
+  {
+    "id": "dd35deb5-76ab-4dbb-b2c3-f7ba14ad9892",
+    "authorizedUsers": [
+      {
+        "userId": "a2d41fd9-d009-45ee-9968-0382d00437c6",
+        "permission": "O"
+      },
+      {
+        "userId": "77fafe5e-afec-4491-be6f-74c5cfb1c51e",
+        "permission": "M"
+      }
+    ],
+    "isModerated": false,
+    "eventsForDrawingArea": [
+      {
+        "iShape": {
+          "id": "77fafe5e-afec-4491-be6f-74c5cfb1c51e#2b53f16c-b53a-4dd0-b2d2-84d6e1279a4a",
+          "type": "Circle",
+          "borderColor": "#000000",
+          "backgroundColor": "#FF0000",
+          "selectColor": "#21e4dc",
+          "zIndex": 2,
+          "center": {
+            "x": 371,
+            "y": 394
+          },
+          "radius": 148.16544806398016
+        },
+        "type": "IShapeAdded"
+      },
+      {
+        "iShape": {
+          "id": "77fafe5e-afec-4491-be6f-74c5cfb1c51e#ea3375c3-08a8-44e2-8f90-00d2f7089088",
+          "type": "Circle",
+          "borderColor": "#000000",
+          "backgroundColor": "#FFFF00",
+          "selectColor": "#21e4dc",
+          "zIndex": 1,
+          "center": {
+            "x": 623,
+            "y": 164
+          },
+          "radius": 82.37718130647589
+        },
+        "type": "IShapeAdded"
+      },
+      {
+        "iShape": {
+          "id": "77fafe5e-afec-4491-be6f-74c5cfb1c51e#e47ff131-922d-447c-a62f-ea258cd09528",
+          "type": "Circle",
+          "borderColor": "#000000",
+          "backgroundColor": "#00FF00",
+          "selectColor": "#a059eb",
+          "zIndex": 0,
+          "center": {
+            "x": 169,
+            "y": 153
+          },
+          "radius": 73.53910524340094
+        },
+        "type": "IShapeAdded"
+      },
+      {
+        "iShape": {
+          "id": "77fafe5e-afec-4491-be6f-74c5cfb1c51e#16db8cb2-497e-4694-a2fc-9c67a824092c",
+          "type": "Rectangle",
+          "borderColor": "#000000",
+          "backgroundColor": "#00FF00",
+          "selectColor": "#17f331",
+          "zIndex": 3,
+          "from": {
+            "x": 84,
+            "y": 577
+          },
+          "to": {
+            "x": 651,
+            "y": 743
+          }
+        },
+        "type": "IShapeAdded"
+      },
+      {
+        "iShape": {
+          "id": "a2d41fd9-d009-45ee-9968-0382d00437c6#5318bfcc-9d9f-42dc-abac-4c02541ed08c",
+          "type": "Circle",
+          "borderColor": "#000000",
+          "backgroundColor": "#00FF00",
+          "selectColor": "#21e4dc",
+          "zIndex": 4,
+          "center": {
+            "x": 696,
+            "y": 445
+          },
+          "radius": 67.94115100585212
+        },
+        "type": "IShapeAdded"
+      },
+      {
+        "iShape": {
+          "id": "a2d41fd9-d009-45ee-9968-0382d00437c6#6c14eb8d-53a7-4dd7-9709-7c4952f31c6f",
+          "type": "Circle",
+          "borderColor": "#000000",
+          "backgroundColor": "#0000FF",
+          "selectColor": "#4b8ec2",
+          "zIndex": 5,
+          "center": {
+            "x": 326,
+            "y": 161
+          },
+          "radius": 54.70831746635972
+        },
+        "type": "IShapeAdded"
+      },
+      {
+        "iShape": {
+          "id": "a2d41fd9-d009-45ee-9968-0382d00437c6#d325cb6a-a6da-4be8-ae2c-ff10eacc40f7",
+          "type": "Circle",
+          "borderColor": "#000000",
+          "backgroundColor": "#000000",
+          "selectColor": "#4b8ec2",
+          "zIndex": 6,
+          "center": {
+            "x": 77,
+            "y": 424
+          },
+          "radius": 68.8839603971781
+        },
+        "type": "IShapeAdded"
+      },
+      {
+        "iShape": {
+          "id": "a2d41fd9-d009-45ee-9968-0382d00437c6#403c3db4-3073-4533-a1e3-b0e4e55a5b13",
+          "type": "Circle",
+          "borderColor": "#000000",
+          "backgroundColor": "#FF0000",
+          "selectColor": "#4b8ec2",
+          "zIndex": 7,
+          "center": {
+            "x": 741,
+            "y": 605
+          },
+          "radius": 53.03772242470448
+        },
+        "type": "IShapeAdded"
+      },
+      {
+        "iShape": {
+          "id": "a2d41fd9-d009-45ee-9968-0382d00437c6#869d2d14-deca-4c6b-a779-1ca1d1d0c29e",
+          "type": "Circle",
+          "borderColor": "#000000",
+          "backgroundColor": "#00FF00",
+          "selectColor": "#4b8ec2",
+          "zIndex": 8,
+          "center": {
+            "x": 744,
+            "y": 303
+          },
+          "radius": 69.31089380465383
+        },
+        "type": "IShapeAdded"
+      },
+      {
+        "iShape": {
+          "id": "a2d41fd9-d009-45ee-9968-0382d00437c6#80b4748d-6c56-4d63-8146-49ef3624156c",
+          "type": "Circle",
+          "borderColor": "#000000",
+          "backgroundColor": "#FFFF00",
+          "selectColor": "#4b8ec2",
+          "zIndex": 9,
+          "center": {
+            "x": 740,
+            "y": 75
+          },
+          "radius": 56.22277118748239
+        },
+        "type": "IShapeAdded"
+      }
+    ]
+  },
+  {
+    "id": "7a31878a-adfd-432e-80a3-2a11c8cba930",
+    "authorizedUsers": [
+      {
+        "userId": "77fafe5e-afec-4491-be6f-74c5cfb1c51e",
+        "permission": "O"
+      },
+      {
+        "userId": "a2d41fd9-d009-45ee-9968-0382d00437c6",
+        "permission": "R"
+      }
+    ],
+    "isModerated": false,
+    "eventsForDrawingArea": [
+      {
+        "iShape": {
+          "id": "77fafe5e-afec-4491-be6f-74c5cfb1c51e#0a7d95e7-577f-419b-a677-37d9274111da",
+          "type": "Rectangle",
+          "borderColor": "#000000",
+          "backgroundColor": "#FF0000",
+          "selectColor": "#9547ce",
+          "zIndex": 0,
+          "from": {
+            "x": 102,
+            "y": 172
+          },
+          "to": {
+            "x": 265,
+            "y": 400
+          }
+        },
+        "type": "IShapeAdded"
+      },
+      {
+        "iShape": {
+          "id": "77fafe5e-afec-4491-be6f-74c5cfb1c51e#96b7725f-0db6-449f-aadd-eb16a3f769d3",
+          "type": "Rectangle",
+          "borderColor": "#000000",
+          "backgroundColor": "#FF0000",
+          "selectColor": "#9547ce",
+          "zIndex": 1,
+          "from": {
+            "x": 440,
+            "y": 176
+          },
+          "to": {
+            "x": 709,
+            "y": 438
+          }
+        },
+        "type": "IShapeAdded"
+      },
+      {
+        "iShape": {
+          "id": "77fafe5e-afec-4491-be6f-74c5cfb1c51e#7aa02b2c-a2a7-479f-9e0e-8535ca3443f8",
+          "type": "Rectangle",
+          "borderColor": "#000000",
+          "backgroundColor": "#00FF00",
+          "selectColor": "#9547ce",
+          "zIndex": 2,
+          "from": {
+            "x": 54,
+            "y": 486
+          },
+          "to": {
+            "x": 826,
+            "y": 772
+          }
+        },
+        "type": "IShapeAdded"
+      }
+    ]
+  }
+]

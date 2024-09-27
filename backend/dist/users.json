@@ -1,0 +1,42 @@
+[
+  {
+    "id": "a2d41fd9-d009-45ee-9968-0382d00437c6",
+    "username": "Sepp",
+    "email": "sepp@tha.de",
+    "password": "$2b$10$n.Kbutc3eZuzrncNeRTwHuV6bLqLEPE5I5MJdeU6I9KlZKBrVh3WG",
+    "drawingAreas": [
+      {
+        "id": "70e1287e-3bca-4cea-8f96-85a065a18efc",
+        "permission": "W"
+      },
+      {
+        "id": "dd35deb5-76ab-4dbb-b2c3-f7ba14ad9892",
+        "permission": "O"
+      },
+      {
+        "id": "7a31878a-adfd-432e-80a3-2a11c8cba930",
+        "permission": "R"
+      }
+    ]
+  },
+  {
+    "id": "77fafe5e-afec-4491-be6f-74c5cfb1c51e",
+    "username": "Mertl",
+    "email": "mertl@tha.de",
+    "password": "$2b$10$uPaSsLC3xJk.t3iEVsQTXOpYx8n.qgO5mrZZkTJ5pVaQ4FzDxbbBi",
+    "drawingAreas": [
+      {
+        "id": "70e1287e-3bca-4cea-8f96-85a065a18efc",
+        "permission": "O"
+      },
+      {
+        "id": "dd35deb5-76ab-4dbb-b2c3-f7ba14ad9892",
+        "permission": "M"
+      },
+      {
+        "id": "7a31878a-adfd-432e-80a3-2a11c8cba930",
+        "permission": "O"
+      }
+    ]
+  }
+]
